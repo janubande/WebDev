@@ -26,16 +26,17 @@ WebDev re documents
     https://www.slideshare.net/AartiParikh/original-slides-from-ryan-dahls-nodejs-intro-talk
 
 7) Debugging Node.js with Chrome DevTools
+    https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
+
     Open chrome://inspect/#devices and go to "Open dedicated DevTools for Node"
 
-    https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
-    
 8) Server side rendering - 
     ExpressJS
     OR
     Fastify https://blog.logrocket.com/forget-express-js-opt-for-these-alternatives-instead/
     OR
     UWebSockets - https://levelup.gitconnected.com/will-node-js-forever-be-the-sluggish-golang-f632130e5c7a
+    OR its express like wrapper - nanoexpress - https://github.com/dalisoft/nanoexpress
 
 9) Object request mapper - 
     use query builder(Knex.JS)
