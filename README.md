@@ -24,11 +24,13 @@ WebDev re documents
     https://www.slideshare.net/AartiParikh/original-slides-from-ryan-dahls-nodejs-intro-talk
 
 7) Debugging Node.js with Chrome DevTools
+    Open chrome://inspect/#devices and go to "Open dedicated DevTools for Node"
+
     https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
     
-7) Server side rendering - ExpressJS
+8) Server side rendering - ExpressJS
 
-8) Object request mapper - 
+9) Object request mapper - 
     use query builder(Knex.JS)
     OR
     raw DB driver? - DB - Sqlite module (http://www.sqlitetutorial.net/sqlite-nodejs/)
