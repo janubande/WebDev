@@ -42,3 +42,10 @@ WebDev re documents
     raw DB driver? - DB - Sqlite module (http://www.sqlitetutorial.net/sqlite-nodejs/)
 
     https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5/ 
+
+For later exploration...
+
+10) refactoring - https://www.youtube.com/watch?v=6wDoopbtEqk
+
+https://github.com/cmstead/js-refactor
+
