@@ -22,7 +22,9 @@ WebDev re documents
 6) Web server - NodeJS
     Original slides from Ryan Dahl's NodeJs intro talk -
     https://www.slideshare.net/AartiParikh/original-slides-from-ryan-dahls-nodejs-intro-talk
-    
+
+7) Debugging Node.js with Chrome DevTools
+    https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
     
 7) Server side rendering - ExpressJS
 
