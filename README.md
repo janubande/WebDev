@@ -1,6 +1,8 @@
 # WebDev
 WebDev re documents
 
+0) Why avoid frameworks as much as possible
+    https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24
 
 1) Use Chrome developer tools as IDE
     https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3
@@ -28,7 +30,11 @@ WebDev re documents
 
     https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
     
-8) Server side rendering - ExpressJS
+8) Server side rendering - 
+    ExpressJS
+    OR
+    Fastify https://blog.logrocket.com/forget-express-js-opt-for-these-alternatives-instead/
+
 
 9) Object request mapper - 
     use query builder(Knex.JS)
