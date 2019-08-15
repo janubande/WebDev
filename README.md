@@ -15,12 +15,15 @@ WebDev re documents
     https://github.com/janubande/2WayDataBindJS
 
 6) Web server - NodeJS
-
+    Original slides from Ryan Dahl's NodeJs intro talk -
+    https://www.slideshare.net/AartiParikh/original-slides-from-ryan-dahls-nodejs-intro-talk
+    
+    
 7) Server side rendering - ExpressJS
 
 8) Object request mapper - 
-  use query builder(Knex.JS)
-  OR
-  raw DB driver? - DB - Sqlite module (http://www.sqlitetutorial.net/sqlite-nodejs/)
+    use query builder(Knex.JS)
+    OR
+    raw DB driver? - DB - Sqlite module (http://www.sqlitetutorial.net/sqlite-nodejs/)
 
     https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5/ 
