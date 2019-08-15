@@ -34,7 +34,8 @@ WebDev re documents
     ExpressJS
     OR
     Fastify https://blog.logrocket.com/forget-express-js-opt-for-these-alternatives-instead/
-
+    OR
+    UWebSockets - https://levelup.gitconnected.com/will-node-js-forever-be-the-sluggish-golang-f632130e5c7a
 
 9) Object request mapper - 
     use query builder(Knex.JS)
