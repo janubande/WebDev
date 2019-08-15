@@ -8,7 +8,7 @@ WebDev re documents
     https://gregrickaby.com/2013/07/turn-chrome-developer-tools-into-an-ide/
     
     go to chrome://flags/, and enable "Developer Tools experiments"
-    press <ctrl><shift><p> in chrome developer mode and enable reverse mode
+    press ctrl + shift + p in chrome developer mode and enable reverse mode
 
 2) HTML Page template (to be uploaded)
 
