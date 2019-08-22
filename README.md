@@ -30,7 +30,11 @@ WebDev re documents
 
     Open chrome://inspect/#devices and go to "Open dedicated DevTools for Node"
 
-8) Server side rendering - 
+8) Tools to Automate Restarting Node.js Server After Code Changes - Forever or Nodemon module
+https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-js-server-after-code-changes-forever-nodemon-nodesupervisor-nodedev/
+    
+
+9) Server side rendering - 
     ExpressJS
     OR
     Fastify https://blog.logrocket.com/forget-express-js-opt-for-these-alternatives-instead/
@@ -38,7 +42,7 @@ WebDev re documents
     UWebSockets - https://levelup.gitconnected.com/will-node-js-forever-be-the-sluggish-golang-f632130e5c7a
     OR its express like wrapper - nanoexpress - https://github.com/dalisoft/nanoexpress
 
-9) Object request mapper - 
+10) Object request mapper - 
     use query builder(Knex.JS)
     OR
     raw DB driver? - DB - Sqlite module (http://www.sqlitetutorial.net/sqlite-nodejs/)
@@ -47,7 +51,7 @@ WebDev re documents
 
 For later exploration...
 
-10) refactoring - https://www.youtube.com/watch?v=6wDoopbtEqk
+11) refactoring - https://www.youtube.com/watch?v=6wDoopbtEqk
 
 https://github.com/cmstead/js-refactor
 
