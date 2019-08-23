@@ -3,8 +3,9 @@ WebDev re documents
 
 Web Developer Roadmap - Ref: https://github.com/kamranahmedse/developer-roadmap
 
-0) Why avoid frameworks as much as possible
-    https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24
+0) Avoid frameworks 
+    Why avoid frameworks as much as possible - https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24
+    A Framework Author's Case Against Frameworks - https://www.youtube.com/watch?v=k7n2xnOiWI8
 
 1) Use Chrome developer tools as IDE
     https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3
