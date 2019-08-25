@@ -2,6 +2,25 @@
 WebDev re documents
 
 Web Developer Roadmap - Ref: https://github.com/kamranahmedse/developer-roadmap
+    - Frontend -
+        *html*, *css, *js
+        package mgr - *npm, yarn
+        css preprocessors - sass
+        css framework - bootstrap
+        css arch - BEM
+        Task runners - *npm scripts
+        module bundlers - webpack
+        lint - *ESlint
+        js framework - vue-vuex, react, angular-rxjs/ngrs
+        Testing - jest, enzyme, cypress
+        type checkers - flow, typescript
+        static site generator - Gatsbyjs
+        desktop app - electron
+        SSR - react-next
+        mobile app - react native, nativescript        
+    - Backend -
+    - Devops -
+    
 
 0) Avoid frameworks 
     Why avoid frameworks as much as possible - https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24
