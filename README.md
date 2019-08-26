@@ -25,18 +25,24 @@ Web Developer Roadmap - Ref: https://github.com/kamranahmedse/developer-roadmap
 5) 2 way data binding in pure JS
     https://github.com/janubande/2WayDataBindJS
 
-6) Web server - NodeJS
+6) Web server - NodeJS or Deno?
     Original slides from Ryan Dahl's NodeJs intro talk -
     https://www.slideshare.net/AartiParikh/original-slides-from-ryan-dahls-nodejs-intro-talk
 
+    Ryan Dahl's recent presentation on Deno features
+    https://www.youtube.com/watch?v=z6JRlx5NC9E
+    
 7) Debugging Node.js with Chrome DevTools
     https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
 
     Open chrome://inspect/#devices and go to "Open dedicated DevTools for Node"
 
+    ??? check above to debug Deno...
+
 8) Tools to Automate Restarting Node.js Server After Code Changes - Forever or Nodemon module
 https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-js-server-after-code-changes-forever-nodemon-nodesupervisor-nodedev/
-    
+
+??? check above to debug Deno...
 
 9) Server side rendering - 
     ExpressJS
@@ -46,6 +52,8 @@ https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-j
     UWebSockets - https://levelup.gitconnected.com/will-node-js-forever-be-the-sluggish-golang-f632130e5c7a
     OR its express like wrapper - nanoexpress - https://github.com/dalisoft/nanoexpress
 
+    ??? check above to debug Deno...
+
 10) Object request mapper - 
     use query builder(Knex.JS)
     OR
@@ -53,6 +61,10 @@ https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-j
 
     https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5/ 
 
+    ??? check above to debug Deno...
+
+ ______________________________________________________________________________________________________________________ 
+ 
 For later exploration...
 
 11) refactoring - https://www.youtube.com/watch?v=6wDoopbtEqk
