@@ -3,7 +3,7 @@ WebDev re documents
 
 Web Developer Roadmap - Ref: https://github.com/kamranahmedse/developer-roadmap
     - Frontend -
-        *html*, *css, *js
+        *html, *css, *js
         package mgr - *npm, yarn
         css preprocessors - sass
         css framework - bootstrap
