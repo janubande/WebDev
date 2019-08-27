@@ -1,14 +1,12 @@
 # WebDev
 WebDev re documents
 
-Web Developer Roadmap - Ref: https://github.com/kamranahmedse/developer-roadmap
-
 0) Avoid frameworks 
     Why avoid frameworks as much as possible - https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24
     
     A Framework Author's Case Against Frameworks - https://www.youtube.com/watch?v=k7n2xnOiWI8
 
-1) Use Chrome developer tools as IDE
+1) Use Chrome developer tools as IDE/Debugger
     https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3
     
     https://gregrickaby.com/2013/07/turn-chrome-developer-tools-into-an-ide/
@@ -16,11 +14,22 @@ Web Developer Roadmap - Ref: https://github.com/kamranahmedse/developer-roadmap
     go to chrome://flags/, and enable "Developer Tools experiments"
     press ctrl + shift + p in chrome developer mode and enable reverse mode
 
+    OR
+    
+    Use Microsoft Visual Code editor
+
 2) HTML Page template (to be uploaded)
 
 3) W3.CSS
 
 4) W3.JS
+
+5] Single page app without framework
+    https://tutorialzine.com/2015/02/single-page-app-without-a-framework
+
+    may need,
+        Jquery Library
+        HandlebarJS -> replace with Mustache Templates for portability to non JS Server Side Port
 
 5) 2 way data binding in pure JS
     https://github.com/janubande/2WayDataBindJS
@@ -71,3 +80,5 @@ For later exploration...
 
 https://github.com/cmstead/js-refactor
 
+Misc -:
+Web Developer Roadmap - Ref: https://github.com/kamranahmedse/developer-roadmap
