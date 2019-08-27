@@ -11,8 +11,8 @@ http basics - https://www.youtube.com/watch?v=iYM2zFP3Zn0
 - use postman tool (chrome extension) for testing get, post, put, delete methods for diff requests/responses with Node/Express
 
 Tentative Stack as of now? - 
-    Current - w3.css/w3.js/jquery - node - express - sqlite
-    future? - w3.css/w3.js/jquery - deno - ??????? - sqlite
+- Current - w3.css/w3.js/jquery - node - express - sqlite
+- future? - w3.css/w3.js/jquery - deno - ??????? - sqlite
 
 0) Avoid frameworks 
     Why avoid frameworks as much as possible - https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24
