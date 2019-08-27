@@ -26,34 +26,33 @@ WebDev re documents
 
 5] Single page app without framework
     https://tutorialzine.com/2015/02/single-page-app-without-a-framework
-
     may need,
         Jquery Library
         HandlebarJS -> replace with Mustache Templates for portability to non JS Server Side Port
 
-5) 2 way data binding in pure JS
+6) 2 way data binding in pure JS
     https://github.com/janubande/2WayDataBindJS
 
-6) Web server - NodeJS or Deno?
+7) Web server - NodeJS or Deno?
     Original slides from Ryan Dahl's NodeJs intro talk -
     https://www.slideshare.net/AartiParikh/original-slides-from-ryan-dahls-nodejs-intro-talk
 
     Ryan Dahl's recent presentation on Deno features
     https://www.youtube.com/watch?v=z6JRlx5NC9E
     
-7) Debugging Node.js with Chrome DevTools
+8) Debugging Node.js with Chrome DevTools
     https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
 
     Open chrome://inspect/#devices and go to "Open dedicated DevTools for Node"
 
     ??? check above to debug Deno...
 
-8) Tools to Automate Restarting Node.js Server After Code Changes - Forever or Nodemon module
+9) Tools to Automate Restarting Node.js Server After Code Changes - Forever or Nodemon module
 https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-js-server-after-code-changes-forever-nodemon-nodesupervisor-nodedev/
 
 ??? check above to debug Deno...
 
-9) Server side rendering - 
+10) Server side rendering - 
     ExpressJS
     OR
     Fastify https://blog.logrocket.com/forget-express-js-opt-for-these-alternatives-instead/
@@ -63,7 +62,7 @@ https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-j
 
     ??? check above to debug Deno...
 
-10) Object request mapper - 
+11) Object request mapper - 
     use query builder(Knex.JS)
     OR
     raw DB driver? - DB - Sqlite module (http://www.sqlitetutorial.net/sqlite-nodejs/)
