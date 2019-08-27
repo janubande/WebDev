@@ -2,13 +2,13 @@
 WebDev re documents
 
 http basics - https://www.youtube.com/watch?v=iYM2zFP3Zn0
-    request / response cycles
-    methods - get, post, put, delete
-    headers - general, request, response
-    body
-    status codes - x
-    http 1.1 vs http 2
-    use postman tool (chrome extension) for testing get, post, put, delete methods for diff requests/responses with Node/Express
+    - request / response cycles
+    - methods - get, post, put, delete
+    - headers - general, request, response
+    - body
+    - status codes - x
+    - http 1.1 vs http 2
+    - use postman tool (chrome extension) for testing get, post, put, delete methods for diff requests/responses with Node/Express
 
 Tentative Stack as of now? - 
     Current - w3.css/w3.js/jquery - node - express - sqlite
