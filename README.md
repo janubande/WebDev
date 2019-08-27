@@ -1,6 +1,8 @@
 # WebDev
 WebDev re documents
 
+http basics - https://www.youtube.com/watch?v=iYM2zFP3Zn0
+
 0) Avoid frameworks 
     Why avoid frameworks as much as possible - https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24
     
