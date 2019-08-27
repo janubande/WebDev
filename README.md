@@ -26,7 +26,7 @@ http basics - https://www.youtube.com/watch?v=iYM2zFP3Zn0
 
 4) W3.JS
 
-5] Single page app without framework
+5) Single page app without framework
     https://tutorialzine.com/2015/02/single-page-app-without-a-framework
     may need,
         Jquery Library
