@@ -43,6 +43,9 @@ Tentative Stack as of now? -
         Jquery Library
         HandlebarJS -> replace with Mustache Templates for portability to non JS Server Side Port
 
+   A Very Simple Demonstration of Node.js / Express and SQLite - 
+   https://stealthistech.blogspot.com/2013/09/a-very-simple-demonstration-of.html
+
 6) 2 way data binding in pure JS
     https://github.com/janubande/2WayDataBindJS
 
