@@ -11,8 +11,8 @@ http basics - https://www.youtube.com/watch?v=iYM2zFP3Zn0
 - use postman tool (chrome extension) for testing get, post, put, delete methods for diff requests/responses with Node/Express
 
 Tentative Stack as of now? - 
-- Current - w3.css/w3.js/jquery - node - express - sqlite
-- future? - w3.css/w3.js/jquery - deno - ??????? - sqlite
+- Current - w3.css/w3.js - node - express - sqlite
+- future? - w3.css/jquery - deno - ??????? - sqlite
 
 0) Avoid frameworks 
     Why avoid frameworks as much as possible - https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24
@@ -33,9 +33,9 @@ Tentative Stack as of now? -
 
 2) HTML Page template (to be uploaded)
 
-3) W3.CSS
+3) W3.CSS - pure css framework
 
-4) W3.JS
+4) W3.JS - lightweight JS library
 
 5) Single page app without framework
     https://tutorialzine.com/2015/02/single-page-app-without-a-framework
