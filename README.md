@@ -43,6 +43,9 @@ Tentative Stack as of now? -
    Mozilla ExpressJS tutorial
    https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
 
+   Understanding Express.js
+   http://evanhahn.com/understanding-express/
+   
 6) 2 way data binding in pure JS
     https://github.com/janubande/2WayDataBindJS
 
