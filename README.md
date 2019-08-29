@@ -66,7 +66,7 @@ Tentative Stack as of now? -
 
     ??? check above to debug Deno...
 
-9) Tools to Automate Restarting Node.js Server After Code Changes - Forever or Nodemon module
+9) Tools to Automate Restarting Node.js Server After Code Changes - Forever or Nodemon module -> cmd -: foreever -w <script>
 https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-js-server-after-code-changes-forever-nodemon-nodesupervisor-nodedev/
 
 ??? check above to debug Deno...
