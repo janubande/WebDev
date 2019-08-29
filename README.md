@@ -37,13 +37,7 @@ Tentative Stack as of now? -
 
 4) W3.JS - lightweight JS library
 
-5) Single page app without framework
-    https://tutorialzine.com/2015/02/single-page-app-without-a-framework
-    may need,
-        Jquery Library
-        HandlebarJS -> replace with Mustache Templates for portability to non JS Server Side Port
-
-   A Very Simple Demonstration of Node.js / Express and SQLite - 
+5) A Very Simple Demonstration of Node.js / Express and SQLite - 
    https://stealthistech.blogspot.com/2013/09/a-very-simple-demonstration-of.html
 
    Mozilla ExpressJS tutorial
