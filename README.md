@@ -39,6 +39,8 @@ Tentative Stack as of now? -
 
 4) W3.JS - lightweight JS library
 
+   - explore pure JS libraries like MithrilJS etc
+
 5) A Very Simple Demonstration of Node.js / Express and SQLite - 
    https://stealthistech.blogspot.com/2013/09/a-very-simple-demonstration-of.html
 
