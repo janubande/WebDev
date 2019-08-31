@@ -91,6 +91,8 @@ https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-j
 
     ??? check above to debug Deno...
 
+12) sqlite or nedb
+
  ______________________________________________________________________________________________________________________ 
  
 For later exploration...
