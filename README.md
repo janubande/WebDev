@@ -33,7 +33,9 @@ Tentative Stack as of now? -
 
 2) HTML Page template (to be uploaded)
 
-3) W3.CSS - pure css framework (explore other pure css frameworks or moduler frameworks...)
+3) W3.CSS - pure css framework
+   - explore other pure css frameworks or moduler frameworks...
+   - check grid systems, css components application for layouts
 
 4) W3.JS - lightweight JS library
 
