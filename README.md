@@ -81,6 +81,14 @@ https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-j
     OR its express like wrapper - nanoexpress - https://github.com/dalisoft/nanoexpress
 
     ??? check above to debug Deno...
+    
+    SSR capabilites to learn -
+    - routing
+    - middleware
+    - template engine
+    - DB interface
+    - auth - stateful (session based with cookie) 
+    - auth - stateless (token based with Oauth, jwt...)
 
 11) Object request mapper - 
     use query builder(Knex.JS)
