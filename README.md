@@ -16,17 +16,16 @@ WebDev re documents
 
 2) Decoupling Your HTML, CSS, and JavaScript - https://philipwalton.com/articles/decoupling-html-css-and-javascript/
     - Classes should be the glue that connects your HTML, CSS, and JavaScript together. 
-        □ Don’t use the same class for both style and behavior.
+        - Don’t use the same class for both style and behavior.
            - use a prefix js-* for all JavaScript hooks
            - using the prefix is-* for all the styling hooks
-        □ Style components based on what they are, not where they are. Classes Are Your Contract.
+        - Style components based on what they are, not where they are. Classes Are Your Contract.
            Instead of a CSS file defining complex selectors,
            simply define the look of a visual component via a single class. The HTML may then choose to use that class or not use it.
-           
            Instead of using JavaScript for complex DOM traversal functions,
            simply listen for the user’s interaction with elements that contain the agreed-upon class names
-        □ Favor explicit component and behavior classes over complex CSS selectors in both CSS and JavaScript.
-        □ Differentiate state styles from default styles.
+        - Favor explicit component and behavior classes over complex CSS selectors in both CSS and JavaScript.
+        - Differentiate state styles from default styles.
 
 3) Avoid frameworks 
     Why avoid frameworks as much as possible - https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24
