@@ -1,25 +1,39 @@
 # WebDev
 WebDev re documents
 
-http basics - https://www.youtube.com/watch?v=iYM2zFP3Zn0
-- request / response cycles,
-- methods - get, post, put, delete,
-- headers - general, request, response,
-- body,
-- status codes - x,
-- http 1.1 vs http 2,
-- use postman tool (chrome extension) for testing get, post, put, delete methods for diff requests/responses with Node/Express
+1) http basics - https://www.youtube.com/watch?v=iYM2zFP3Zn0
+    - request / response cycles,
+    - methods - get, post, put, delete,
+    - headers - general, request, response,
+    - body,
+    - status codes - x,
+    - http 1.1 vs http 2,
+    - use postman tool (chrome extension) for testing get, post, put, delete methods for diff requests/responses with Node/Express
 
-Tentative Stack as of now? - 
-- Current - w3.css/w3.js - node - express - sqlite
-- future? - w3.css/jquery - deno - ??????? - sqlite
+    Tentative Stack as of now? - 
+    - Current - w3.css/w3.js - node - express - sqlite
+    - future? - w3.css/jquery - deno - ??????? - sqlite
 
-0) Avoid frameworks 
+2) Decoupling Your HTML, CSS, and JavaScript - https://philipwalton.com/articles/decoupling-html-css-and-javascript/
+    - Classes should be the glue that connects your HTML, CSS, and JavaScript together. 
+        □ Don’t use the same class for both style and behavior.
+           - use a prefix js-* for all JavaScript hooks
+           - using the prefix is-* for all the styling hooks
+        □ Style components based on what they are, not where they are. Classes Are Your Contract.
+           Instead of a CSS file defining complex selectors,
+           simply define the look of a visual component via a single class. The HTML may then choose to use that class or not use it.
+           
+           Instead of using JavaScript for complex DOM traversal functions,
+           simply listen for the user’s interaction with elements that contain the agreed-upon class names
+        □ Favor explicit component and behavior classes over complex CSS selectors in both CSS and JavaScript.
+        □ Differentiate state styles from default styles.
+
+3) Avoid frameworks 
     Why avoid frameworks as much as possible - https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24
     
     A Framework Author's Case Against Frameworks - https://www.youtube.com/watch?v=k7n2xnOiWI8
 
-1) Use Chrome developer tools as IDE/Debugger
+4) Use Chrome developer tools as IDE/Debugger
     https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3
     
     https://gregrickaby.com/2013/07/turn-chrome-developer-tools-into-an-ide/
@@ -31,17 +45,17 @@ Tentative Stack as of now? -
     
     Use Microsoft Visual Code editor
 
-2) HTML Page template (to be uploaded)
+5) HTML Page template (to be uploaded)
 
-3) W3.CSS - pure css framework
+6) W3.CSS - pure css framework
    - explore other pure css frameworks or moduler frameworks... (bulma, siimple etc)
    - check grid systems, css components application for layouts
 
-4) W3.JS - lightweight JS library
+7) W3.JS - lightweight JS library
 
    - explore pure JS libraries like MithrilJS etc
 
-5) A Very Simple Demonstration of Node.js / Express and SQLite - 
+8) A Very Simple Demonstration of Node.js / Express and SQLite - 
    https://stealthistech.blogspot.com/2013/09/a-very-simple-demonstration-of.html
 
    Mozilla ExpressJS tutorial
@@ -50,29 +64,29 @@ Tentative Stack as of now? -
    Understanding Express.js
    http://evanhahn.com/understanding-express/
    
-6) 2 way data binding in pure JS
+9) 2 way data binding in pure JS
     https://github.com/janubande/2WayDataBindJS
 
-7) Web server - NodeJS or Deno?
+10) Web server - NodeJS or Deno?
     Original slides from Ryan Dahl's NodeJs intro talk -
     https://www.slideshare.net/AartiParikh/original-slides-from-ryan-dahls-nodejs-intro-talk
 
     Ryan Dahl's recent presentation on Deno features
     https://www.youtube.com/watch?v=z6JRlx5NC9E
     
-8) Debugging Node.js with Chrome DevTools
+11) Debugging Node.js with Chrome DevTools
     https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
 
     Open chrome://inspect/#devices and go to "Open dedicated DevTools for Node"
 
     ??? check above to debug Deno...
 
-9) Tools to Automate Restarting Node.js Server After Code Changes - Forever or Nodemon module -> cmd -: foreever -w <script>
+12) Tools to Automate Restarting Node.js Server After Code Changes - Forever or Nodemon module -> cmd -: foreever -w <script>
 https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-js-server-after-code-changes-forever-nodemon-nodesupervisor-nodedev/
 
 ??? check above to debug Deno...
 
-10) Server side rendering - 
+13) Server side rendering - 
     ExpressJS
     OR
     Fastify https://blog.logrocket.com/forget-express-js-opt-for-these-alternatives-instead/
@@ -91,7 +105,7 @@ https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-j
     - auth - stateful (session based with cookie) 
     - auth - stateless (token based with Oauth, jwt...)
 
-11) Object request mapper - 
+14) Object request mapper - 
     use query builder(Knex.JS)
     OR
     raw DB driver? - DB - Sqlite module (http://www.sqlitetutorial.net/sqlite-nodejs/)
@@ -100,13 +114,13 @@ https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-j
 
     ??? check above to debug Deno...
 
-12) sqlite or nedb
+15) sqlite or nedb
 
  ______________________________________________________________________________________________________________________ 
  
 For later exploration...
 
-12) refactoring - https://www.youtube.com/watch?v=6wDoopbtEqk
+16) refactoring - https://www.youtube.com/watch?v=6wDoopbtEqk
 
 https://github.com/cmstead/js-refactor
 
