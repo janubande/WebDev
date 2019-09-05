@@ -107,7 +107,7 @@ https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-j
     - auth - stateful (session based with cookie) 
     - auth - stateless (token based with Oauth, jwt...)
 
-14) Auth - session or token based?
+14) Auth - session or token based? Passport or Everyauth or something else?
     - https://stormpath.com/blog/choosing-nodejs-authentication-strategy
     
 14) Object request mapper - 
