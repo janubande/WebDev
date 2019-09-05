@@ -110,7 +110,7 @@ https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-j
 14) Auth - session or token based? Passport or Everyauth or something else?
     - https://stormpath.com/blog/choosing-nodejs-authentication-strategy
     
-14) Object request mapper - 
+15) Object request mapper - 
     use query builder(Knex.JS)
     OR
     raw DB driver? - DB - Sqlite module (http://www.sqlitetutorial.net/sqlite-nodejs/)
@@ -119,13 +119,13 @@ https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-j
 
     ??? check above to debug Deno...
 
-15) sqlite or nedb
+16) sqlite or nedb
 
  ______________________________________________________________________________________________________________________ 
  
 For later exploration...
 
-16) refactoring - https://www.youtube.com/watch?v=6wDoopbtEqk
+17) refactoring - https://www.youtube.com/watch?v=6wDoopbtEqk
 
 https://github.com/cmstead/js-refactor
 
