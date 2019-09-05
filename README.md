@@ -1,21 +1,21 @@
-# WebDev
-WebDev re documents
-0) environment - Glitch.com
+# WebDev - WebDev re notes...
+
+0) Dev environment - Glitch.com
     - https://anidiots.guide/other-guides/hosting-on-glitch
     - https://flaviocopes.com/glitch/
     - https://blog.bitsrc.io/introduction-to-glitch-for-node-js-apps-in-the-cloud-cd263de5683f
 
 1) http basics - https://www.youtube.com/watch?v=iYM2zFP3Zn0
-    - request / response cycles,
-    - methods - get, post, put, delete,
-    - headers - general, request, response,
-    - body,
+    - request / response cycles
+    - methods - get, post, put, delete
+    - headers - general, request, response
+    - body
     - status codes - 1xx, 2xx, 3xx, 4xx, 5xx
     - http 1.1 vs http 2,
-    - use postman tool (chrome extension) for testing get, post, put, delete methods for diff requests/responses with Node/Express
+    - use postman tool (or chrome extension) for testing get, post, put, delete methods for diff requests/responses with Node/Express
 
-    Tentative Stack as of now? - 
-    - Current - w3.css/w3.js - node - express - sqlite
+    Tentative Dev Stack as of now? - 
+    - Current - node (on Glitch), w3.css/w3.js - express - sqlite
     - future? - w3.css/jquery - deno - ??????? - sqlite
 
 2) Decoupling Your HTML, CSS, and JavaScript - https://philipwalton.com/articles/decoupling-html-css-and-javascript/
@@ -107,6 +107,9 @@ https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-j
     - auth - stateful (session based with cookie) 
     - auth - stateless (token based with Oauth, jwt...)
 
+14) Auth - session or token based?
+    - https://stormpath.com/blog/choosing-nodejs-authentication-strategy
+    
 14) Object request mapper - 
     use query builder(Knex.JS)
     OR
