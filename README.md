@@ -133,7 +133,9 @@ For later exploration...
 
 16) eslint - http://www.codingfordummies.org/detect-errors-in-your-javascript-code-with-eslint/
 
-17) Jvascript code snippets - https://code.visualstudio.com/docs/editor/userdefinedsnippets
+17) Jvascript code snippets - 
+    - https://code.visualstudio.com/docs/editor/userdefinedsnippets
+    - https://www.w3schools.com/howto/default.asp
 
 18) refactoring - https://www.youtube.com/watch?v=6wDoopbtEqk
 
