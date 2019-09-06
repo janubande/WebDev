@@ -79,8 +79,9 @@
     
 11) Debugging Node.js with Chrome DevTools
     https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
-
     Open chrome://inspect/#devices and go to "Open dedicated DevTools for Node"
+
+    Understand difference in debugging client-side and server side javascript
 
     ??? check above to debug Deno...
 
