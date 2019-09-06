@@ -131,6 +131,8 @@ https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-j
  
 For later exploration...
 
+16) eslint - http://www.codingfordummies.org/detect-errors-in-your-javascript-code-with-eslint/
+
 17) refactoring - https://www.youtube.com/watch?v=6wDoopbtEqk
 
 https://github.com/cmstead/js-refactor
