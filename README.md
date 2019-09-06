@@ -135,6 +135,8 @@ For later exploration...
 
 17) Jvascript code snippets - 
     - https://code.visualstudio.com/docs/editor/userdefinedsnippets
+    - https://www.freecodecamp.org/news/the-most-powerful-tool-to-boost-your-coding-productivity-2dc80e0eff00/
+        
     - https://www.w3schools.com/howto/default.asp
 
 18) refactoring - https://www.youtube.com/watch?v=6wDoopbtEqk
