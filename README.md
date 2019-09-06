@@ -6,12 +6,13 @@
     - https://blog.bitsrc.io/introduction-to-glitch-for-node-js-apps-in-the-cloud-cd263de5683f
 
 1) http basics - https://www.youtube.com/watch?v=iYM2zFP3Zn0
+    - outline - destination (protocol, address, port), methods, headers
     - request / response cycles
     - methods - get, post, put, delete
     - headers - general, request, response
     - body
     - status codes - 1xx, 2xx, 3xx, 4xx, 5xx
-    - http 1.1 vs http 2,
+    - http 1.1 vs http 2
     - use postman tool (or chrome extension) for testing get, post, put, delete methods for diff requests/responses with Node/Express
 
     Tentative Dev Stack as of now? - 
