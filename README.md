@@ -134,10 +134,12 @@ For later exploration...
 16) eslint - http://www.codingfordummies.org/detect-errors-in-your-javascript-code-with-eslint/
 
 17) Jvascript code snippets - 
-    - https://code.visualstudio.com/docs/editor/userdefinedsnippets
-    - https://www.freecodecamp.org/news/the-most-powerful-tool-to-boost-your-coding-productivity-2dc80e0eff00/
-        
-    - https://www.w3schools.com/howto/default.asp
+    - vscode feature https://code.visualstudio.com/docs/editor/userdefinedsnippets
+    - how to use https://www.freecodecamp.org/news/the-most-powerful-tool-to-boost-your-coding-productivity-2dc80e0eff00/
+
+    - snippet generator - https://snippet-generator.app
+    
+    - w3school snippets https://www.w3schools.com/howto/default.asp
 
 18) refactoring - https://www.youtube.com/watch?v=6wDoopbtEqk
 
