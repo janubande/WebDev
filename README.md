@@ -33,17 +33,15 @@
         - Differentiate state styles from default styles.
 
 4) Unobstrusive JS pattern
-    - In html, Structure and content elements which will have the input or output are tagged by id / class
+	- In html, Structure and content elements which will have the input or output are tagged by id / class
 	- In script at the start, all id / class tags are queried and mapped to variables (declared as const) using queryselector
 	- Subsequently, all code uses the variables alone to manipulate the elements
 	- Sample -:
-		var elementClassOrId = document.querySelector('elementClassOrId');
-			
-		function eventHandlerFunction1() {
-			//event handler code
-		}
-			
-		elementClassOrId.onclick = eventHandlerFunction1;
+	var elementClassOrId = document.querySelector('elementClassOrId');
+	function eventHandlerFunction1() {
+	//event handler code
+	}
+	elementClassOrId.onclick = eventHandlerFunction1;
 
 3) Avoid frameworks 
     Why avoid frameworks as much as possible - https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24
