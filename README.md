@@ -32,7 +32,7 @@
         - Favor explicit component and behavior classes over complex CSS selectors in both CSS and JavaScript.
         - Differentiate state styles from default styles.
 
-4) Unobstrusive JS pattern
+3) Unobstrusive JS pattern
 	- In html, Structure and content elements which will have the input or output are tagged by id / class
 	- In script at the start, all id / class tags are queried and mapped to variables (declared as const) using queryselector
 	- Subsequently, all code uses the variables alone to manipulate the elements
@@ -43,12 +43,12 @@
 		- }
 		- elementClassOrId.onclick = eventHandlerFunction1;
 
-3) Avoid frameworks 
+4) Avoid frameworks 
     Why avoid frameworks as much as possible - https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24
     
     A Framework Author's Case Against Frameworks - https://www.youtube.com/watch?v=k7n2xnOiWI8
 
-4) Use Chrome developer tools as IDE/Debugger
+5) Use Chrome developer tools as IDE/Debugger
     https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3
     
     https://gregrickaby.com/2013/07/turn-chrome-developer-tools-into-an-ide/
@@ -60,16 +60,16 @@
     
     Use Microsoft Visual Code editor
 
-5) HTML Page template (to be uploaded)
+6) HTML Page template (to be uploaded)
 
-6) W3.CSS - pure css framework
+7) W3.CSS - pure css framework
    - explore other pure css frameworks or moduler frameworks... (bulma, siimple etc)
    - check grid systems, css components application for layouts
 
-7) W3.JS - lightweight JS library
+8) W3.JS - lightweight JS library
    - explore pure JS libraries like MithrilJS etc
 
-8) A Very Simple Demonstration of Node.js / Express and SQLite - 
+9) A Very Simple Demonstration of Node.js / Express and SQLite - 
    https://stealthistech.blogspot.com/2013/09/a-very-simple-demonstration-of.html
 
    Mozilla ExpressJS tutorial
@@ -78,17 +78,17 @@
    Understanding Express.js
    http://evanhahn.com/understanding-express/
    
-9) 2 way data binding in pure JS
+10) 2 way data binding in pure JS
     https://github.com/janubande/2WayDataBindJS
 
-10) Web server - NodeJS or Deno?
+11) Web server - NodeJS or Deno?
     Original slides from Ryan Dahl's NodeJs intro talk -
     https://www.slideshare.net/AartiParikh/original-slides-from-ryan-dahls-nodejs-intro-talk
 
     Ryan Dahl's recent presentation on Deno features
     https://www.youtube.com/watch?v=z6JRlx5NC9E
     
-11) Debugging Node.js with Chrome DevTools
+12) Debugging Node.js with Chrome DevTools
     https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
     Open chrome://inspect/#devices and go to "Open dedicated DevTools for Node"
 
@@ -96,12 +96,12 @@
 
     ??? check above to debug Deno...
 
-12) Tools to Automate Restarting Node.js Server After Code Changes - Forever or Nodemon module -> cmd -: foreever -w <script>
+13) Tools to Automate Restarting Node.js Server After Code Changes - Forever or Nodemon module -> cmd -: foreever -w <script>
 https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-js-server-after-code-changes-forever-nodemon-nodesupervisor-nodedev/
 
 ??? check above to debug Deno...
 
-13) Server side rendering - 
+14) Server side rendering - 
     ExpressJS
     OR
     Fastify https://blog.logrocket.com/forget-express-js-opt-for-these-alternatives-instead/
@@ -120,14 +120,14 @@ https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-j
     - auth - stateful (session based with cookie) 
     - auth - stateless (token based with Oauth, jwt...)
 
-14) Auth - session or token based? 
+15) Auth - session or token based? 
     - https://stormpath.com/blog/choosing-nodejs-authentication-strategy
     
     - Use Passport for now
     
     - Later, expore aspects post authorisation like logins, persistence, sessions etc... -> using "Authum"
     
-15) Object request mapper - 
+16) Object request mapper - 
     use query builder(Knex.JS)
     OR
     raw DB driver? - DB - Sqlite module (http://www.sqlitetutorial.net/sqlite-nodejs/)
@@ -136,15 +136,15 @@ https://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-j
 
     ??? check above to debug Deno...
 
-16) sqlite or nedb
+17) sqlite or nedb
 
  ______________________________________________________________________________________________________________________ 
  
 For later exploration...
 
-16) eslint - http://www.codingfordummies.org/detect-errors-in-your-javascript-code-with-eslint/
+18) eslint - http://www.codingfordummies.org/detect-errors-in-your-javascript-code-with-eslint/
 
-17) Jvascript code snippets - 
+19) Jvascript code snippets - 
     - vscode feature https://code.visualstudio.com/docs/editor/userdefinedsnippets
     - how to use https://www.freecodecamp.org/news/the-most-powerful-tool-to-boost-your-coding-productivity-2dc80e0eff00/
 
@@ -152,7 +152,7 @@ For later exploration...
     
     - w3school snippets https://www.w3schools.com/howto/default.asp
 
-18) refactoring - https://www.youtube.com/watch?v=6wDoopbtEqk
+20) refactoring - https://www.youtube.com/watch?v=6wDoopbtEqk
 
 https://github.com/cmstead/js-refactor
 
