@@ -42,6 +42,11 @@
 		- //event handler code
 		- }
 		- elementClassOrId.onclick = eventHandlerFunction1;
+		
+	- additionally explore how to programatically get a list all classes in an html file
+	- https://stackoverflow.com/questions/7538483/how-to-get-list-of-css-class-use-in-the-html-file
+	- you can use another code to query them and map to variable in a loop
+	- using standardised naming js-*, is-* etc can help quickly filter / use the variables with least effort post declaration
 
 4) Avoid frameworks 
     Why avoid frameworks as much as possible - https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24
