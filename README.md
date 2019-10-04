@@ -162,4 +162,7 @@ For later exploration...
 https://github.com/cmstead/js-refactor
 
 Misc -:
+
 Web Developer Roadmap - Ref: https://github.com/kamranahmedse/developer-roadmap
+Training / overview videos - https://www.youtube.com/user/TechGuyWeb
+
