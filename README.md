@@ -72,6 +72,7 @@
 7) W3.CSS - pure css framework
    - explore other pure css frameworks or moduler frameworks... (bulma, siimple etc)
    - check grid systems, css components application for layouts
+   - Why pure css framework based mockups instead of mockup tools like sketch - case against pixel perfect design - https://uxdesign.cc/a-case-against-pixel-perfect-design-ce00cd3eabc9
 
 8) W3.JS - lightweight JS library
    - explore pure JS libraries like MithrilJS etc
