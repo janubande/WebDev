@@ -73,6 +73,7 @@
    - explore other pure css frameworks or moduler frameworks... (bulma, siimple etc)
    - check grid systems, css components application for layouts
    - Why pure css framework based mockups instead of mockup tools like sketch - case against pixel perfect design - https://uxdesign.cc/a-case-against-pixel-perfect-design-ce00cd3eabc9
+   Pursuit of Lossless Design-Development Handoffs - https://medium.com/@chuanqisun/beyond-artboards-the-pursuit-of-lossless-design-development-handoffs-9abb698b7ee8
 
 8) W3.JS - lightweight JS library
    - explore pure JS libraries like MithrilJS etc
