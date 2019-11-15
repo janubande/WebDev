@@ -50,8 +50,7 @@
 	- https://stackoverflow.com/questions/7538483/how-to-get-list-of-css-class-use-in-the-html-file
 	- you can use another code to query them and map to variable in a loop
 	- using standardised naming js-*, is-* etc can help quickly filter / use the variables with least effort post declaration
-
-	- MDN documentation example: Number guessing game - all aspects (counters, inputs, outputs etc) were assigned classes in html, and 1st mapped to variables using document.querySelector() in javascript, and then manupulated only from javascript.
+nupulated only from javascript.
 
 4) Avoid frameworks 
     Why avoid frameworks as much as possible - https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24
